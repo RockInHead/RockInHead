@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hello! I'm Timur
 
-<!--
-**RockInHead/RockInHead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-Here are some ideas to get you started:
+## About me
+I am backend deleveloper from Tomsk (Russia).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the same time,  I'm interested in creating in web technology, machine learning, and games.
+
+## 📞Contacts
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rock_in_head) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](steeltim83@gmail.com)
+
+<details align="left">
+  <summary><h2><b>📚 My stack</b></h2></summary>
+  <p>
+    <h3>Langs</h3>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,html,css,php" />
+    <h3>Frameworks / Tools</h3>
+    <img src="https://skillicons.dev/icons?i=unity,linux,git,arduino,notion" />
+    <h3>Software</h3>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,pycharm" />
+    <br>
+  </p>
+</details>
+
+## ⭐Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RockInHead&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RockInHead&theme=radical)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/rock_in_head?theme=dark&font=Marvel)
+
