@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Timur
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="Assets/github-snake.svg" alt="snake"/>
 </p>
 
 ## About me
