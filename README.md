@@ -1,4 +1,5 @@
-## 👋 Hello! I'm Timur
+<h1 align="center">Hello! I'm Timur </a> 
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32"/></h1>
 
 <p align="center">
  <img width="600" src="Assets/github-snake.svg" alt="snake"/>
