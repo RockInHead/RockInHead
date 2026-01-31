@@ -31,5 +31,4 @@ At the same time,  I'm interested in creating in web technology, machine learnin
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RockInHead&theme=radical)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/rock_in_head?theme=dark&font=Marvel)
 
